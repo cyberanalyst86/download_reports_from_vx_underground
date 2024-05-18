@@ -109,7 +109,7 @@ def get_pdf_title(url):
 
 def main():
 
-  directory = "C:\\Users\\ongye\\Downloads\\threat_report\\"
+  directory = "C:\\Users\\Public\\download_reports_from_vx_underground\\"
   report_year = "2024"
   file_directory = directory + report_year
   webpage_url = "https://vx-underground.org/APTs/" + str(report_year)
